@@ -1,5 +1,13 @@
 streamlit==1.26.0
-pandas==2.0.3
+pandas==2.1.1      # Works on Python 3.11
 requests==2.31.0
 python-dotenv==1.0.0
-certifi==2023.7.22
+certifi==2023.7.22  # valid version
+numpy==1.26.4
+altair>=4.0,<6
+blinker>=1.0.0,<2
+cachetools>=4.0,<6
+click>=7.0,<9
+importlib-metadata>=1.4,<7
+packaging>=16.8,<24
+pillow>=9.5.0,<10
