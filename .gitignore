@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit specific
+.streamlit/
+
+# Logs
+*.log
+
+# IDE files (optional, depending on your editor)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
