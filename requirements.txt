@@ -1,5 +1,7 @@
-streamlit==1.26.0
-pandas==2.0.3
-requests==2.31.0
-python-dotenv==1.0.0
-certifi==2023.7.22
+streamlit==1.38.0
+pandas==2.2.2
+requests==2.32.3
+python-dotenv==1.0.1
+pillow==10.4.0
+altair==5.4.1
+numpy==1.26.4
