@@ -22,5 +22,7 @@ A smart and interactive web application that provides personalized workout routi
 - **Deployment:** Streamlit Cloud
 
 ---
+## Live App
+[Open the Workout & Diet Planner App](https://share.streamlit.io/kundushreosmi/repo-name/main/app.py)
 
 
