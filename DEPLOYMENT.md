@@ -4,7 +4,7 @@ This repository contains the **Personalized Workout & Diet Planner** app built w
 
 The app is live and can be accessed here:
 
-[Open the Workout & Diet Planner App](https://share.streamlit.io/username/repo-name/main/app.py)
+[Open the Workout & Diet Planner App](https://share.streamlit.io/ShreosmiKundu/workout-diet-planner/main/app.py)
 
 ---
 
