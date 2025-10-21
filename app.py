@@ -135,4 +135,4 @@ if generate_plans:
     st.markdown(f'<div class="card">{gemini_quote}</div>', unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("Made with ❤ by Your Name | Powered by Gemini AI")
+st.caption("")
